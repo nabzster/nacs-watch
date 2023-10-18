@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  theme: {
+    extend: {},
+    boxSizing: {
+      borderBox: "border-box",
+    },
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
