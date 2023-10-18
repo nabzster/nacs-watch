@@ -3,8 +3,8 @@ import Image from 'next/image'
 
 export default function NotAdopted() {
   return (
-<div className="flex flex-col items-center justify-center">
-        <div className="flex flex-wrap gap-[3rem] px-3 rounded-md justify-center items-center select-none">
+<div className="flex flex-col items-center justify-center relative">
+        <div className="w-[75%] flex flex-wrap gap-[3rem] px-3 rounded-md justify-center items-center select-none">
           <Image src="not-adopted/toyota.svg" alt="Toyota" width="100" height="100" />
           <Image src="not-adopted/lexus.svg" alt="Lexus" width="140" height="140" />
           <Image src="not-adopted/suzuki.svg" alt="Suzuki" width="100" height="100" />
