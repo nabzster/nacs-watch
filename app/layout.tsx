@@ -20,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="!scroll-smooth">
-      <body className={`${inter.className} bg-neutral-100 text-gray-950 font-sans`}>
+      <body className={`${inter.className} bg-zinc-100 text-gray-950 font-sans`}>
         <Header />
 
         {children}

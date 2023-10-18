@@ -8,7 +8,7 @@ export default function NotAdopted() {
           <Image src="not-adopted/toyota.svg" alt="Toyota" width="100" height="100" />
           <Image src="not-adopted/lexus.svg" alt="Lexus" width="140" height="140" />
           <Image src="not-adopted/suzuki.svg" alt="Suzuki" width="100" height="100" />
-          <Image src="not-adopted/chrysler.svg" alt="Chrysler" width="160" height="160" />
+          <Image src="not-adopted/chrysler.svg" alt="Chrysler" width="120" height="120" />
           <Image src="not-adopted/alfa-romeo.svg" alt="Alfa Romeo" width="120" height="120" />
           <Image src="not-adopted/dodge.svg" alt="Dodge" width="160" height="160" />
           <Image src="not-adopted/fiat.svg" alt="Fiat" width="120" height="120" />

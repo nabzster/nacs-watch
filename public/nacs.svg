@@ -1,0 +1,59 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg2" x="0px" y="0px"
+    viewBox="0 0 427 359" style="enable-background:new 0 0 427 359;" xml:space="preserve"><script xmlns="" async="false" type="text/javascript" src="chrome-extension://fnjhmkhhmkbjkkabndcnnogagogbneec/in-page.js"/>
+    <style type="text/css">
+        .st0{fill-rule:evenodd;clip-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-miterlimit:3.2;}
+        .st1{fill:none;stroke:#000000;stroke-width:24;stroke-miterlimit:3.2;}
+        .st2{fill:none;stroke:#000000;stroke-width:28;stroke-miterlimit:3.2;}
+        .st3{fill:none;stroke:#000000;stroke-width:16.211;stroke-miterlimit:3.2;}
+        .st4{fill:none;stroke:#000000;stroke-width:22.8708;stroke-miterlimit:3.2;}
+        .st5{fill:none;stroke:#000000;stroke-width:22.448;stroke-miterlimit:3.2;}
+        .st6{fill:none;stroke:#000000;stroke-width:16.1354;stroke-miterlimit:3.2;}
+        .st7{fill:none;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:3.2;}
+        .st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:11.3858;stroke-miterlimit:3.2;}
+        .st9{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:6.7602;stroke-miterlimit:3.2;}
+        .st10{fill:none;stroke:#eab308;stroke-width:14;stroke-miterlimit:3.2;}
+        .st11{fill:none;stroke:#00B949;stroke-width:10;stroke-miterlimit:3.2;}
+        .st12{font-family:'Arial-BoldMT';}
+        .st13{font-size:25px;}
+        .st14{fill:#FFFFFF;}
+        .st15{fill:none;}
+    </style>
+    <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="223.42916" inkscape:cy="597.28341" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-grids="false" inkscape:window-height="851" inkscape:window-maximized="0" inkscape:window-width="1203" inkscape:window-x="6" inkscape:window-y="25" inkscape:zoom="0.98994949" pagecolor="#ffffff" showgrid="true">
+        <inkscape:grid id="grid4198" type="xygrid"/>
+    </sodipodi:namedview>
+    <g id="layer2" inkscape:label="Layer 2" inkscape:groupmode="layer">
+        <path id="path4164" inkscape:connector-curvature="0" sodipodi:nodetypes="azccczacccccca" class="st0" d="M68.9,262.7   c4.3-7.5,16.5,4.4,25.9,2.4s17.1-10.2,27.5-15.4c29-15.2,65.2-22.5,95.4-22.6c40.6,1.5,59.4,5.9,92.9,23.4   c8.9,4.6,17.9,14.8,25.1,16.2c7.2,1.4,24.4-13.3,29.9-4.8c6.8,10.6-21,31.5-21,31.5l-42,24.2L248.3,333l-63.8,0.8l-46.9-12.1   l-44.4-25.9C93.1,295.9,62.1,274.6,68.9,262.7L68.9,262.7z"/>
+    </g>
+    <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
+        <ellipse id="path4200" class="st1" cx="105.3" cy="108.9" rx="66.4" ry="68.8"/>
+        <ellipse id="ellipse4202" class="st1" cx="320.2" cy="108.9" rx="66.4" ry="68.8"/>
+        
+        <path id="path4206" inkscape:connector-curvature="0" inkscape:export-ydpi="600.09003" inkscape:export-xdpi="600.09003" sodipodi:nodetypes="caaaaaaaaaaaaaaaaaaaaaaaaasc" class="st2" d="   M144.4,27.5c0,0-26.5,3.5-39.2,7.3c-16.5,5-34,9.6-47.6,20.2c-8.8,6.9-15.2,16.7-20.2,26.7c-4.8,9.5-6.8,20.2-8.9,30.7   c-2,10.1-3.1,20.4-3.2,30.7c-0.1,9.7,1,19.5,2.4,29.1c1.5,10.1,3.5,20.1,6.4,29.9c3.4,11.1,7.9,21.9,12.9,32.3   c5.2,10.9,10.8,21.7,17.8,31.5c6.6,9.3,14.1,18.2,22.6,25.8c9.8,8.8,20.7,16.4,32.3,22.6c11,5.9,22.7,10.5,34.7,13.7   c12.6,3.4,25.8,4.8,38.8,5.7c14.6,1,29.4,1,44-0.4c14-1.3,28.1-3.5,41.6-7.7c12.1-3.7,23.7-9.1,34.7-15.4   c8.9-5.1,17.5-10.9,25.1-17.8c10.4-9.5,19.5-20.6,27.5-32.3c7.7-11.4,14.2-23.7,19.4-36.4c5-12.2,8.7-25,11.3-38   c2.3-11.4,3.4-23.1,3.6-34.7c0.3-14.6,0-29.3-2.8-43.6c-2.3-11.7-4.8-23.9-11.3-33.9c-7-10.5-17.5-18.6-28.3-25.1   c-10.6-6.4-22.8-9.6-34.7-12.9c-9.8-2.7-19.9-3.9-29.9-5.7l-13.7-2.4"/>
+        <path id="path4208" inkscape:connector-curvature="0" sodipodi:nodetypes="cssaasc" class="st3" d="M119.7,26.7   c0,0,19.3-4.1,27.8-5.5c8.5-1.4,23.9-1.9,40.1-2.5c8.6-0.3,17.2-0.8,25.8-0.8c9.5,0,18.9,0.4,28.3,0.8c5.9,0.2,11.8,0.2,17.6,0.8   l23.3,2.4"/>
+        <path id="path4214" inkscape:connector-curvature="0" sodipodi:nodetypes="cassc" class="st4" d="M385.5,222.6   c0,0,4.9-23.6,3.1-35.2c-0.8-5.1-2.2-10.8-5.9-14.2c-3.4-3.1-7.1-6.3-14.4-7.1c-7.3-0.8-21,6.4-21,6.4"/>
+        <path id="path4216" inkscape:connector-curvature="0" sodipodi:nodetypes="cassc" class="st5" d="M40.6,222.8   c0,0-5.1-24.1-2.9-35.9c1-5.4,2.9-11,7.1-14.8c0,0,8-4.6,12.3-5c4.3-0.4,14.9,2.3,14.9,2.3"/>
+        <path id="path4220" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M274.2,53.8c0,0,9.7-12.8,6-22.8   c-3.6-9.9-16.1-11-16.1-11"/>
+        <path id="rect4224" class="st7" d="M29.3,148.8h14.5c4,0,7.3,3.3,7.3,7.3l0,0c0,4-3.3,7.3-7.3,7.3H29.3c-4,0-7.3-3.3-7.3-7.3l0,0   C22,152.1,25.3,148.8,29.3,148.8z"/>
+        <path id="rect4226" class="st7" d="M376.8,152h14.5c4,0,7.3,3.3,7.3,7.3l0,0c0,4-3.3,7.3-7.3,7.3h-14.5c-4,0-7.3-3.3-7.3-7.3l0,0   C369.5,155.3,372.8,152,376.8,152z"/>
+        <ellipse id="ellipse4236" class="st8" cx="299.8" cy="274.2" rx="19" ry="18.6"/>
+        <ellipse id="ellipse4238" class="st9" cx="216.4" cy="275.7" rx="29.9" ry="29.5"/>
+        <ellipse id="ellipse4244" class="st8" cx="129.5" cy="274.1" rx="19" ry="18.6"/>
+        <path id="path4157" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M150.6,53.8c0,0-9.7-12.8-6-22.8   c3.6-9.9,16.1-11,16.1-11"/>
+    </g>
+    <circle class="st10" cx="106.8" cy="109.6" r="50.9"/>
+    <circle class="st10" cx="320.2" cy="108.9" r="50.9"/>
+    <circle class="st11" cx="217.7" cy="275.3" r="23"/>
+    <!-- <text transform="matrix(1 0 0 1 81.6499 99.2998)"><tspan x="0" y="0" class="st12
+    st13">DC-</tspan><tspan x="7.6" y="30" class="st12 st13">L2</tspan></text>
+    <text transform="matrix(1 0 0 1 294.8864 99.5996)"><tspan x="0" y="0" class="st12
+    st13">DC+</tspan><tspan x="10.8" y="30" class="st12 st13">L1</tspan></text>
+    <text transform="matrix(1 0 0 1 208.1997 284.3242)" class="st12 st13">G</text>
+    <text transform="matrix(1 0 0 1 129.4955 315.5801)" class="st14 st12 st13">PP</text>
+    <text transform="matrix(1 0 0 1 273.7064 315.8799)" class="st14 st12 st13">CP</text> -->
+    <line class="st15" x1="137" y1="291.1" x2="140.8" y2="297.8"/>
+    </svg>
