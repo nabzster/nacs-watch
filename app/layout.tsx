@@ -23,9 +23,7 @@ export default function RootLayout({
     <html lang="en" className="!scroll-smooth">
       <body className={`${inter.className} bg-zinc-100 text-gray-950 font-sans`}>
         <Header />
-
         {children}
-        
         <Footer />  
         <Analytics />
       </body>
